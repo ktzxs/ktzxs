@@ -8,11 +8,8 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 💻 Estudante de programação com foco em **desenvolvimento Back-end** — área onde quero construir minha carreira
-- 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e processos
-- 📚 Sempre aprendendo — atualmente estudando **inglês** e evoluindo minhas habilidades técnicas
-- 🚀 Apaixonado por construir APIs robustas e sistemas escaláveis
-- 🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
+- 💻 Finalizando o curso do IFSP- caraguatatuba. TI para internet com focado em **desenvolvimento Back-end** — área onde quero construir minha carreira
+- 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e process
 
 ---
 
