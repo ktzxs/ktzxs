@@ -68,7 +68,7 @@
   </a>
   &nbsp;
   <a href="https://www.instagram.com/lucaszxs_z" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="48"/>
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
   </a>
 </p>
 
