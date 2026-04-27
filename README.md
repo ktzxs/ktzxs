@@ -11,8 +11,6 @@
 - 💻 Estudante de programação com foco em **desenvolvimento Back-end** — área onde quero construir minha carreira
 - 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e processos
 - 📚 Sempre aprendendo — atualmente estudando **inglês** e evoluindo minhas habilidades técnicas
-- 🚀 Apaixonado por construir APIs robustas e sistemas escaláveis
-- 🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
 
 ---
 
@@ -74,6 +72,3 @@
 
 ---
 
-<p align="center">
-  <em>"Cada linha de código é um passo a mais em direção ao dev que quero ser."</em>
-</p>
