@@ -1,4 +1,4 @@
-# Bem vindo👋
+# Bem Vindo👋
 
 <p align="center">
   <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
@@ -11,36 +11,38 @@
 - 💻 Estudante de programação com foco em **desenvolvimento Back-end** — área onde quero construir minha carreira
 - 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e processos
 - 📚 Sempre aprendendo — atualmente estudando **inglês** e evoluindo minhas habilidades técnicas
+- 🚀 Apaixonado por construir APIs robustas e sistemas escaláveis
+- 🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens
-<p>
+<h3 align="center">💻 Linguagens</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
 </p>
 
-### ⚙️ Back-end
-<p>
+<h3 align="center">⚙️ Back-end</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
 </p>
 
-### 🎨 Front-end
-<p>
+<h3 align="center">🎨 Front-end</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=react" title="React Native" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
 </p>
 
-### 🗄️ Banco de Dados & ORM
-<p>
+<h3 align="center">🗄️ Banco de Dados & ORM</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
@@ -60,7 +62,7 @@
 
 ## 📫 Contato
 
-<p>
+<p align="center">
   <a href="mailto:lucasalvesdacosta070@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
   </a>
@@ -72,3 +74,6 @@
 
 ---
 
+<p align="center">
+  <em>"Cada linha de código é um passo a mais em direção ao dev que quero ser."</em>
+</p>
