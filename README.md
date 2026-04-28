@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Alves 👋
+# Bem vindo👋
 
 <p align="center">
   <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
