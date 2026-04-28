@@ -1,4 +1,4 @@
-# Bem Vindo👋
+#                                                     Bem Vindo👋
 
 <p align="center">
   <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+##                                                   🙋‍♂️ Sobre mim
 
 - 💻 Estudante de programação com foco em **desenvolvimento Back-end** — área onde quero construir minha carreira
 - 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e processos
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##                                           🛠️ Tecnologias & Ferramentas
 
 <h3 align="center">💻 Linguagens</h3>
 <p align="center">
