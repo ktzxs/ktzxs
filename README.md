@@ -1,4 +1,4 @@
-<h1 align="center">Brm Vindo 👋</h1>
+<h1 align="center">Bem Vindo 👋</h1>
 
 <p align="center">
   <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
