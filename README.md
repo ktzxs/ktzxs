@@ -1,4 +1,4 @@
-#                                                     Bem Vindo👋
+<h1 align="center">Brm Vindo 👋</h1>
 
 <p align="center">
   <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
@@ -6,17 +6,19 @@
 
 ---
 
-##                                                   🙋‍♂️ Sobre mim
+<h2 align="center">🙋‍♂️ Sobre mim</h2>
 
-- 💻 Estudante de programação com foco em **desenvolvimento Back-end** — área onde quero construir minha carreira
-- 🎓 Técnico em **Recursos Humanos**, o que me dá uma visão diferenciada sobre pessoas e processos
-- 📚 Sempre aprendendo — atualmente estudando **inglês** e evoluindo minhas habilidades técnicas
-- 🚀 Apaixonado por construir APIs robustas e sistemas escaláveis
-- 🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
+<p align="center">
+  💻 Estudante de programação com foco em <strong>desenvolvimento Back-end</strong> — área onde quero construir minha carreira<br/>
+  🎓 Técnico em <strong>Recursos Humanos</strong>, o que me dá uma visão diferenciada sobre pessoas e processos<br/>
+  📚 Sempre aprendendo — atualmente estudando <strong>inglês</strong> e evoluindo minhas habilidades técnicas<br/>
+  🚀 Apaixonado por construir APIs robustas e sistemas escaláveis<br/>
+  🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
+</p>
 
 ---
 
-##                                           🛠️ Tecnologias & Ferramentas
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <h3 align="center">💻 Linguagens</h3>
 <p align="center">
@@ -51,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ktzxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -60,7 +62,7 @@
 
 ---
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <a href="mailto:lucasalvesdacosta070@gmail.com">
