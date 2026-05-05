@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Programação;Foco+em+Back-end+⚙️;Aprendendo+inglês+🇧🇷→🇺🇸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Programacao;Foco+em+Back-end;Aprendendo+ingles" alt="Typing SVG" />
 </div>
 
 ---
@@ -73,6 +73,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
   </a>
 </p>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer" />
