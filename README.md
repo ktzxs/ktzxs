@@ -1,8 +1,10 @@
-<h1 align="center">Bem Vindo 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Lucas%20Alves&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20in%20progress%20🚀&descAlignY=60&descColor=8b949e" />
+</div>
 
-<p align="center">
-  <em>Estudante de programação · Foco em Back-end · Aprendendo inglês 🇧🇷→🇺🇸</em>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Lucas+Alves+👋;Estudante+de+Programação;Foco+em+Back-end+⚙️;Aprendendo+inglês+🇧🇷→🇺🇸" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -10,6 +12,8 @@
 
 <p align="center">
   💻 Estudante de programação com foco em <strong>desenvolvimento Back-end</strong> — área onde quero construir minha carreira<br/>
+  🎓 Técnico em <strong>Recursos Humanos</strong>, o que me dá uma visão diferenciada sobre pessoas e processos<br/>
+  📚 Sempre aprendendo — atualmente estudando <strong>inglês</strong> e evoluindo minhas habilidades técnicas<br/>
 </p>
 
 ---
@@ -56,6 +60,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktzxs&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktzxs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ktzxs&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
 ---
 
 <h2 align="center">📫 Contato</h2>
@@ -75,3 +87,7 @@
 <p align="center">
   <em>"Cada linha de código é um passo a mais em direção ao dev que quero ser."</em>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" />
+</div>
