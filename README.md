@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=160&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Lucas%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Lucas+Alves+👋;Estudante+de+Programação;Foco+em+Back-end+⚙️;Aprendendo+inglês+🇧🇷→🇺🇸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Programação;Foco+em+Back-end+⚙️;Aprendendo+inglês+🇧🇷→🇺🇸" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,8 +14,6 @@
   💻 Estudante de programação com foco em <strong>desenvolvimento Back-end</strong> — área onde quero construir minha carreira<br/>
   🎓 Técnico em <strong>Recursos Humanos</strong>, o que me dá uma visão diferenciada sobre pessoas e processos<br/>
   📚 Sempre aprendendo — atualmente estudando <strong>inglês</strong> e evoluindo minhas habilidades técnicas<br/>
-  🚀 Apaixonado por construir APIs robustas e sistemas escaláveis<br/>
-  🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
 </p>
 
 ---
@@ -59,11 +57,12 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ktzxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktzxs&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktzxs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ktzxs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
