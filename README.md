@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Lucas%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Lucas%20Alves&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer&descAlignY=58&descColor=ffffff&descSize=22" />
 </div>
 
 <div align="center">
@@ -56,9 +56,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ktzxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktzxs&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ktzxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktzxs&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
