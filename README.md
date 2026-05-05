@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Lucas%20Alves&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20in%20progress%20🚀&descAlignY=60&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=160&section=header" />
 </div>
 
 <div align="center">
@@ -14,6 +14,8 @@
   💻 Estudante de programação com foco em <strong>desenvolvimento Back-end</strong> — área onde quero construir minha carreira<br/>
   🎓 Técnico em <strong>Recursos Humanos</strong>, o que me dá uma visão diferenciada sobre pessoas e processos<br/>
   📚 Sempre aprendendo — atualmente estudando <strong>inglês</strong> e evoluindo minhas habilidades técnicas<br/>
+  🚀 Apaixonado por construir APIs robustas e sistemas escaláveis<br/>
+  🧠 Acredito que um bom desenvolvedor também precisa saber se comunicar e trabalhar bem em equipe
 </p>
 
 ---
@@ -84,10 +86,6 @@
 
 ---
 
-<p align="center">
-  <em>"Cada linha de código é um passo a mais em direção ao dev que quero ser."</em>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer" />
 </div>
