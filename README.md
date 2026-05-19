@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=ktzxs&style=for-the-badge&color=1f6feb&label=VISITAS" />
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Back--end-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudando-Java%20%7C%20Node.js-58a6ff?style=for-the-badge&logo=codewars&logoColor=white" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
 
 <h2 align="center">&#x1F64B;&#x200D;&#x2642;&#xFE0F; Sobre mim</h2>
@@ -77,6 +83,12 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" title="Instagram" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktzxs&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
 
