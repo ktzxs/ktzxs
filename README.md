@@ -49,7 +49,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" />
 </p>
 
