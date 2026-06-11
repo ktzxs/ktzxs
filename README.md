@@ -6,10 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Programacao;Foco+em+Back-end;Aprendendo+ingles" alt="Typing SVG" />
 </div>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Back--end-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Estudando-Java%20%7C%20Node.js-58a6ff?style=for-the-badge&logo=codewars&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.lesterchan.net/badge?page_id=ktzxs.ktzxs&left_color=1f6feb&right_color=58a6ff" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
@@ -21,6 +24,10 @@
   &#x1F393; Tecnico em <strong>Recursos Humanos</strong>, o que me da uma visao diferenciada sobre pessoas e processos<br/>
   &#x1F4DA; Sempre aprendendo — atualmente estudando <strong>ingles</strong> e evoluindo minhas habilidades tecnicas<br/>
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
 
@@ -63,6 +70,16 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=ktzxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ktzxs&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ktzxs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ktzxs&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
