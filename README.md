@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/Estudando-Java%20%7C%20Node.js-58a6ff?style=for-the-badge&logo=codewars&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.lesterchan.net/badge?page_id=ktzxs.ktzxs&left_color=1f6feb&right_color=58a6ff" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
 
 <h2 align="center">&#x1F64B;&#x200D;&#x2642;&#xFE0F; Sobre mim</h2>
