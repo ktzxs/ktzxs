@@ -25,10 +25,6 @@
   &#x1F4DA; Sempre aprendendo — atualmente estudando <strong>ingles</strong> e evoluindo minhas habilidades tecnicas<br/>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" />
 
 <h2 align="center">&#x1F6E0;&#xFE0F; Tecnologias & Ferramentas</h2>
@@ -46,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" />
 </p>
 
 <h3 align="center">&#x1F3A8; Front-end</h3>
